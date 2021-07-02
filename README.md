@@ -11,8 +11,6 @@ To find me, goto https://orangii.cn/
 
 ![github stat](https://github-readme-stats.vercel.app/api?username=jiaocz&count_private=true&show_icons=true&theme=flag-india)
 
-![most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocz&theme=flag-india)
-
 ---
 BTW Can you help me star this repo? I really like this.
 
