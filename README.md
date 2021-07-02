@@ -14,7 +14,7 @@ To find me, goto https://orangii.cn/
 ---
 BTW Can you help me star this repo? I really like this.
 
-![repo image](https://github-readme-stats.vercel.app/api/pin/?username=jiaocz&repo=personal-page)
+[![repo image](https://github-readme-stats.vercel.app/api/pin/?username=jiaocz&repo=personal-page)](https://github.com/Jiaocz/Personal-page)
 
 <!--
 **Jiaocz/Jiaocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
