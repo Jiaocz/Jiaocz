@@ -6,8 +6,17 @@ The work I'm proud of is this:
 [![Screenshot](https://user-images.githubusercontent.com/14857984/115842686-a7885200-a450-11eb-8d33-653ac05ebb56.png)](https://github.com/Jiaocz/Personal-page)
 
 Click the image to find what it really is (or you may have find it in Pinned repo under this section).
+
 To find me, goto https://orangii.cn/
 
+![github stat](https://github-readme-stats.vercel.app/api?username=jiaocz&count_private=true&show_icons=true&theme=flag-india)
+
+![most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocz&theme=flag-india)
+
+---
+BTW Can you help me star this repo? I really like this.
+
+![repo image](https://github-readme-stats.vercel.app/api/pin/?username=jiaocz&repo=personal-page)
 
 <!--
 **Jiaocz/Jiaocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
