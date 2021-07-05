@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm just a **orange** on a binary tree. 🍊
+I'm just an **orange** on a binary tree. 🍊
 I create some website template or some software ~~(which is probably my coursework)~~.
 
 The work I'm proud of is this:
