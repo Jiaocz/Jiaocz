@@ -2,10 +2,12 @@
 I'm just an **orange** on a binary tree. 🍊
 I create some website template or some software ~~(which is probably my coursework)~~.
 
-The work I'm proud of is this:
+### My Favorite Work:
 [![Screenshot](https://user-images.githubusercontent.com/14857984/115842686-a7885200-a450-11eb-8d33-653ac05ebb56.png)](https://github.com/Jiaocz/Personal-page)
 
 Click the image to find what it really is (or you may have find it in Pinned repo under this section).
+
+### My stats
 
 To find me, goto https://orangii.cn/
 
