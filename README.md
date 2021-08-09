@@ -11,7 +11,7 @@ Click the image to find what it really is (or you may have find it in Pinned rep
 
 ### My stats
 
-[<span><img src="https://github-readme-stats.vercel.app/api?username=jiaocz&count_private=true&show_icons=true&theme=flag-india" height=195/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocz&layout=compact" height=195/></span>](https://orangii.cn/)
+[<span><img src="https://github-readme-stats.vercel.app/api?username=jiaocz&count_private=true&show_icons=true&theme=flag-india" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocz&layout=compact" height=145/></span>](https://orangii.cn/)
   <p align="center">Click images above to find my contacts.</p>
   
 ---
