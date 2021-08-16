@@ -15,9 +15,7 @@ Click the image to find what it really is (or you may have find it in Pinned rep
   <p align="center">Click images above to find my contacts.</p>
   
 ---
-BTW Can you help me star this repo? I really like this.
-
-[![repo image](https://github-readme-stats.vercel.app/api/pin/?username=jiaocz&repo=personal-page)](https://github.com/Jiaocz/Personal-page)
+BTW Can you help me star the repos down below? Support the newbie developer~
 
 <!--
 **Jiaocz/Jiaocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
