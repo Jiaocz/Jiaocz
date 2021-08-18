@@ -3,7 +3,7 @@
 <p align="center">I create some website template or some software <span style="text-decoration: line-through">(which is probably my coursework)<span>.</p>
 
 ### My Favorite Work:
-[![Screenshot](https://user-images.githubusercontent.com/14857984/115842686-a7885200-a450-11eb-8d33-653ac05ebb56.png)](https://github.com/Jiaocz/Personal-page)
+[![ScreenShot](https://user-images.githubusercontent.com/14857984/129847923-33ea7ccd-90ae-48a1-864c-464bf170bc0d.png)](https://github.com/Jiaocz/Personal-page)
 
 Click the image to find what it really is (or you may have find it in Pinned repo under this section).
   
