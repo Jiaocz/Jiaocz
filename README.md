@@ -15,6 +15,11 @@ Click the image to find what it really is (or you may have find it in Pinned rep
   <p align="center">Click images above to find my contacts.</p>
   
 ---
+### My Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
+---
 BTW Can you help me star the pinned repos down below? Support the newbie developer~
 
 <!--
