@@ -12,3 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.orangii.cn/feed/"
+          template: "[$title]($url) at $date $newline $description"
+          date_format: "mmm d yyyy"
