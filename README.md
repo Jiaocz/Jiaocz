@@ -23,6 +23,11 @@
 <p>See My Blog at https://blog.orangii.cn/</p>
   
 ---
+### Recent activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+  
+---
 ### Support Me
 - [<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width=25 height=25 />&nbsp;https://patreon.com/ii](https://patreon.com/ii)
 - [<img src="https://orangii.cn/images/logo.svg" height=25 width=25 />&nbsp;https://orangii.cn/donate.html](https://orangii.cn/donate.html)
