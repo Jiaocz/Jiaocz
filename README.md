@@ -22,6 +22,11 @@ Click the image to find what it really is (or you may have find it in Pinned rep
 <!-- BLOG-POST-LIST:END -->
   
 ---
+### Support Me
+- [<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width=25 height=25 />&nbsp;https://patreon.com/ii](https://patreon.com/ii)
+- [<img src="https://orangii.cn/images/logo.svg" height=25 width=25 />&nbsp;https://orangii.cn/donate.html](https://orangii.cn/donate.html)
+
+---
 BTW Can you help me star the pinned repos down below? Support the newbie developer~
 
 <!--
