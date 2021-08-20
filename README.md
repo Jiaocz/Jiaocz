@@ -20,7 +20,7 @@
 - [WordPress挂载阿里云OSS+CDN加速网页并获得256T空间](https://blog.orangii.cn/2021/wp-mount-oss-cdn/)
 - [Hello World](https://blog.orangii.cn/2021/hello-world/)
 <!-- BLOG-POST-LIST:END -->
-<p>See My Blog at https://blog.orangii.cn/</p>
+<p>See my blog at https://blog.orangii.cn/</p>
   
 ---
 ### Recent activities
