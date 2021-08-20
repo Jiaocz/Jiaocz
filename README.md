@@ -4,7 +4,7 @@
 <p align="center">https://orangii.cn</p>
 
 ### My Works:
-[![Works](https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg)](https://github.com/Jiaocz/#pinned)
+[![Works](https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg)](https://github.com/Jiaocz#pinned)
 
 <p align="center">Click the image to find what it really is (or you may have find it in Pinned repo under this section).</p>
   
