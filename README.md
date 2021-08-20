@@ -3,8 +3,8 @@
 <p align="center">I create some website template or some software <span style="text-decoration: line-through">(which is probably my coursework)<span>.</p>
 <p align="center">https://orangii.cn</p>
 
-### My Favorite Work:
-[![ScreenShot](https://user-images.githubusercontent.com/14857984/129847923-33ea7ccd-90ae-48a1-864c-464bf170bc0d.png)](https://github.com/Jiaocz/Personal-page)
+### My Works:
+[![Works](https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg)](https://github.com/Jiaocz/#pinned)
 
 <p align="center">Click the image to find what it really is (or you may have find it in Pinned repo under this section).</p>
   
