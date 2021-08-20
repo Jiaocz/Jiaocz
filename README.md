@@ -17,6 +17,8 @@ Click the image to find what it really is (or you may have find it in Pinned rep
 ---
 ### My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress挂载阿里云OSS+CDN加速网页并获得256T空间](https://blog.orangii.cn/2021/wp-mount-oss-cdn/)
+- [Hello World](https://blog.orangii.cn/2021/hello-world/)
 <!-- BLOG-POST-LIST:END -->
   
 ---
