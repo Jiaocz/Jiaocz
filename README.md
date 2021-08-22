@@ -1,10 +1,13 @@
+<!-- Using Creative Commons BY 4.0 license. You must give appropriate credit for this repo if you uses. -->
+<!-- 使用 CC BY 4.0 许可证，你需要给出合理的署名至本仓库 -->
+
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I'm an <b>orange</b> on a binary tree. 🍊</p>
 <p align="center">I create some website template or some software <span style="text-decoration: line-through">(which is probably my coursework)<span>.</p>
 <p align="center">https://orangii.cn</p>
 
 ### My Works:
-[![Works](https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg)](https://github.com/Jiaocz#pinned)
+<a href="#pinned"><img src="https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg" /></a>
 
 <p align="center">Click the image to find what it really is (or you may have find it in Pinned repo under this section).</p>
   
