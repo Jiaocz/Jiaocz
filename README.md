@@ -28,12 +28,12 @@
 ---
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-2. 💪 Opened PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-3. 🗣 Commented on [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
-4. ❗️ Opened issue [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
-5. ❗️ Closed issue [#16010](https://github.com/timburgan/timburgan/issues/16010) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-6. ❗️ Opened issue [#16010](https://github.com/timburgan/timburgan/issues/16010) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🎉 Merged PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+2. 💪 Opened PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+3. 🎉 Merged PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+4. 💪 Opened PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+5. 🗣 Commented on [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
+6. ❗️ Opened issue [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
 <!--END_SECTION:activity-->
   
 ---
