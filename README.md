@@ -1,10 +1,12 @@
 <!-- Using Creative Commons BY 4.0 license. You must give appropriate credit for this repo if you uses. -->
 <!-- 使用 CC BY 4.0 许可证，你需要给出合理的署名至本仓库 -->
 
-<h1 align="center">Hi there 👋</h1>
-<p align="center">I'm an <b>orange</b> on a binary tree. 🍊</p>
-<p align="center">I create some website template or some software <span style="text-decoration: line-through">(which is probably my coursework)<span>.</p>
-<p align="center">https://orangii.cn</p>
+<img src="https://orangii.cn/images/logo.svg" align="left" height="200px" />
+<h1>Hi there 👋</h1>
+<p>I'm an <b>orange</b> on a binary tree. 🍊</p>
+<p>I create some website template or some software (which is probably my coursework).</p>
+<p>https://orangii.cn</p>
+<br />
 
 ### My Works:
 <a href="#pinned"><img src="https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg" /></a>
@@ -26,7 +28,9 @@
 <p>See my blog at https://blog.orangii.cn/</p>
   
 ---
-### Recent activities
+<details>
+  <summary><b>:zap: Recent activities</b></summary>
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 2. 💪 Opened PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
@@ -35,6 +39,8 @@
 5. 🎉 Merged PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 6. 💪 Opened PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 <!--END_SECTION:activity-->
+  
+</details>
   
 ---
 ### Support Me
