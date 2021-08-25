@@ -49,7 +49,7 @@
 
 ---
 BTW Can you help me star the pinned repos down below? Support the newbie developer~
-  <h1 id="pinned"></h1>
+  <a id="pinned"></a>
 <!--
 **Jiaocz/Jiaocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
