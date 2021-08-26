@@ -33,12 +33,12 @@
   <summary><b>:zap: Recent activities</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-2. 💪 Opened PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-3. 🎉 Merged PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-4. 💪 Opened PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-5. 🎉 Merged PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-6. 💪 Opened PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+1. ❗️ Closed issue [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
+2. 🎉 Merged PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+3. 💪 Opened PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+4. 🎉 Merged PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+5. 💪 Opened PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+6. 🎉 Merged PR [#6](https://github.com/Jiaocz/Personal-page/pull/6) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 <!--END_SECTION:activity-->
   
 </details>
