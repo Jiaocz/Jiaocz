@@ -23,6 +23,7 @@
 ---
 ### My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NDSL – 还算便宜的游戏掌机](https://blog.orangii.cn/2021/buy-a-ndsl-in-2021/)
 - [WordPress挂载阿里云OSS+CDN加速网页并获得256T空间](https://blog.orangii.cn/2021/wp-mount-oss-cdn/)
 - [Hello World](https://blog.orangii.cn/2021/hello-world/)
 <!-- BLOG-POST-LIST:END -->
