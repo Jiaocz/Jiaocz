@@ -28,10 +28,12 @@
 - [Hello World](https://blog.orangii.cn/2021/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
-  
----
-<details>
-  <summary><b>:zap: Recent activities</b></summary>
+
+### 📊 Weekly coding analysis.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### :zap: Recent activities
   
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3](https://github.com/solstice23/argon-theme-docs/issues/3) in [solstice23/argon-theme-docs](https://github.com/solstice23/argon-theme-docs)
@@ -41,8 +43,6 @@
 5. 🎉 Merged PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 6. 💪 Opened PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 <!--END_SECTION:activity-->
-  
-</details>
   
 ---
 ### Support Me
