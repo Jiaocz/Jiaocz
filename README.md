@@ -29,10 +29,12 @@
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
+---
 ### 📊 Weekly coding analysis.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
 ### :zap: Recent activities
   
 <!--START_SECTION:activity-->
