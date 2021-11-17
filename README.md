@@ -43,12 +43,12 @@ Other   35 hrs 23 mins  ██████████████████�
 ### :zap: Recent activities
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Jiaocz/Personal-page/pull/12) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-2. ❗️ Opened issue [#3](https://github.com/solstice23/argon-theme-docs/issues/3) in [solstice23/argon-theme-docs](https://github.com/solstice23/argon-theme-docs)
-3. ❗️ Closed issue [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
-4. 🎉 Merged PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-5. 💪 Opened PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-6. 🎉 Merged PR [#8](https://github.com/Jiaocz/Personal-page/pull/8) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+1. 🎉 Merged PR [#13](https://github.com/Jiaocz/Personal-page/pull/13) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+2. 🎉 Merged PR [#12](https://github.com/Jiaocz/Personal-page/pull/12) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+3. ❗️ Opened issue [#3](https://github.com/solstice23/argon-theme-docs/issues/3) in [solstice23/argon-theme-docs](https://github.com/solstice23/argon-theme-docs)
+4. ❗️ Closed issue [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
+5. 🎉 Merged PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+6. 💪 Opened PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 <!--END_SECTION:activity-->
   
 ---
