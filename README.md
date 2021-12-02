@@ -47,12 +47,12 @@ JSON     8 mins          ▒░░░░░░░░░░░░░░░░░�
 ### :zap: Recent activities
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#327](https://github.com/solstice23/argon-theme/issues/327) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-2. 💪 Opened PR [#327](https://github.com/solstice23/argon-theme/pull/327) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-3. 🎉 Merged PR [#13](https://github.com/Jiaocz/Personal-page/pull/13) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-4. 🎉 Merged PR [#12](https://github.com/Jiaocz/Personal-page/pull/12) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-5. ❗️ Opened issue [#3](https://github.com/solstice23/argon-theme-docs/issues/3) in [solstice23/argon-theme-docs](https://github.com/solstice23/argon-theme-docs)
-6. 💪 Opened PR [#11](https://github.com/Jiaocz/Personal-page/pull/11) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+1. ❗️ Opened issue [#328](https://github.com/solstice23/argon-theme/issues/328) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+2. 🗣 Commented on [#327](https://github.com/solstice23/argon-theme/issues/327) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+3. 💪 Opened PR [#327](https://github.com/solstice23/argon-theme/pull/327) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+4. 🎉 Merged PR [#13](https://github.com/Jiaocz/Personal-page/pull/13) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+5. 🎉 Merged PR [#12](https://github.com/Jiaocz/Personal-page/pull/12) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+6. ❗️ Opened issue [#3](https://github.com/solstice23/argon-theme-docs/issues/3) in [solstice23/argon-theme-docs](https://github.com/solstice23/argon-theme-docs)
 <!--END_SECTION:activity-->
   
 ---
