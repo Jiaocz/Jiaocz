@@ -47,12 +47,12 @@ PHP          2 mins          ░░░░░░░░░░░░░░░░░
 ### :zap: Recent activities
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1833](https://github.com/JessicaLim8/JessicaLim8/issues/1833) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-2. 💪 Opened PR [#332](https://github.com/solstice23/argon-theme/pull/332) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-3. ❗️ Opened issue [#328](https://github.com/solstice23/argon-theme/issues/328) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-4. 🗣 Commented on [#327](https://github.com/solstice23/argon-theme/issues/327) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-5. 💪 Opened PR [#327](https://github.com/solstice23/argon-theme/pull/327) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-6. 🎉 Merged PR [#13](https://github.com/Jiaocz/Personal-page/pull/13) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+1. 🗣 Commented on [#333](https://github.com/solstice23/argon-theme/issues/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+2. 🗣 Commented on [#333](https://github.com/solstice23/argon-theme/issues/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+3. 💪 Opened PR [#333](https://github.com/solstice23/argon-theme/pull/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+4. ❗️ Opened issue [#1833](https://github.com/JessicaLim8/JessicaLim8/issues/1833) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+5. 💪 Opened PR [#332](https://github.com/solstice23/argon-theme/pull/332) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+6. ❗️ Opened issue [#328](https://github.com/solstice23/argon-theme/issues/328) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
 <!--END_SECTION:activity-->
   
 ---
