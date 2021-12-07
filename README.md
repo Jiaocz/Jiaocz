@@ -32,16 +32,8 @@
 <p>See my blog at https://blog.orangii.cn/</p>
 
 ---
-### 📊 Weekly coding analysis.
-<!--START_SECTION:waka-->
-```text
-Vue.js       23 hrs 47 mins  ███████████████████████▒░   93.37 % 
-JavaScript   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-PHP          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-```
-<!--END_SECTION:waka-->
+### 📊 Weekly coding statistics.
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=orangii" alt="Wakatime"/>](https://wakatime.com/@Orangii)
 
 ---
 ### :zap: Recent activities
