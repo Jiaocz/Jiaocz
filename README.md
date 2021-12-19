@@ -48,6 +48,13 @@
 <!--END_SECTION:activity-->
   
 ---
+
+<details>
+  <summary><strong>Detail Metrics</strong> (very long)</summary>
+  <img src="https://github.com/Jiaocz/Jiaocz/blob/main/github-metrics.svg" />
+</details>
+
+---
 ### Support Me
 - [<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width=25 height=25 />&nbsp;https://patreon.com/ii](https://patreon.com/ii)
 - [<img src="https://orangii.cn/images/logo.svg" height=25 width=25 />&nbsp;https://orangii.cn/donate.html](https://orangii.cn/donate.html)
