@@ -23,11 +23,11 @@
 ---
 ### My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [西安加油！](https://blog.orangii.cn/2021/stay-strong-xi-an/)
 - [祀我国殇，山河无恙！逝者已矣，生者奋进](https://blog.orangii.cn/shuoshuo/2021-guojiagongji/)
 - [记一次大作业中出现的问题](https://blog.orangii.cn/2021/web-course-project/)
 - [新域名Get！狐狸狸~](https://blog.orangii.cn/shuoshuo/domain-hulili/)
 - [宿舍RGB改造计划](https://blog.orangii.cn/shuoshuo/dorm-rgb-plan/)
-- [当代大学生赶DDL现状](https://blog.orangii.cn/shuoshuo/catching-up-ddl/)
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
