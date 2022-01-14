@@ -23,11 +23,11 @@
 ---
 ### My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React学习笔记，及与Vue的对比（一）](https://blog.orangii.cn/2022/react-vs-vue-1/)
 - [如何配置域名邮箱，避免邮件进入垃圾邮件](https://blog.orangii.cn/2022/domain-email-dns-configure/)
 - [新年好运到](https://blog.orangii.cn/shuoshuo/new-year-pubg-lottery/)
 - [2021年度总结](https://blog.orangii.cn/2021/rewind/)
 - [西安加油！](https://blog.orangii.cn/2021/stay-strong-xi-an/)
-- [祀我国殇，山河无恙！逝者已矣，生者奋进](https://blog.orangii.cn/shuoshuo/2021-guojiagongji/)
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
