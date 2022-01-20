@@ -23,11 +23,11 @@
 ---
 ### My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [从Github Pages迁移至CloudFlare Pages，提升一点点的速度](https://blog.orangii.cn/2022/cloudflare-pages/)
 - [Vue 3 Setup标签的使用笔记，及一次Vue-ts的经历](https://blog.orangii.cn/2022/vue-setup-and-vuets/)
 - [React学习笔记，及与Vue的对比（一）](https://blog.orangii.cn/2022/react-vs-vue-1/)
 - [如何配置域名邮箱，避免邮件进入垃圾邮件](https://blog.orangii.cn/2022/domain-email-dns-configure/)
 - [新年好运到](https://blog.orangii.cn/shuoshuo/new-year-pubg-lottery/)
-- [2021年度总结](https://blog.orangii.cn/2021/rewind/)
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
