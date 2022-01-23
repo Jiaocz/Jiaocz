@@ -39,12 +39,12 @@
 ### :zap: Recent activities
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/LiMaoQiu/limaoqiu.github.io/pull/1) in [LiMaoQiu/limaoqiu.github.io](https://github.com/LiMaoQiu/limaoqiu.github.io)
-2. 🗣 Commented on [#333](https://github.com/solstice23/argon-theme/issues/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+1. 🗣 Commented on [#3](https://github.com/zzsqwq/hugo-blog-comment/issues/3) in [zzsqwq/hugo-blog-comment](https://github.com/zzsqwq/hugo-blog-comment)
+2. 💪 Opened PR [#1](https://github.com/LiMaoQiu/limaoqiu.github.io/pull/1) in [LiMaoQiu/limaoqiu.github.io](https://github.com/LiMaoQiu/limaoqiu.github.io)
 3. 🗣 Commented on [#333](https://github.com/solstice23/argon-theme/issues/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-4. 💪 Opened PR [#333](https://github.com/solstice23/argon-theme/pull/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-5. ❗️ Opened issue [#1833](https://github.com/JessicaLim8/JessicaLim8/issues/1833) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-6. 💪 Opened PR [#332](https://github.com/solstice23/argon-theme/pull/332) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+4. 🗣 Commented on [#333](https://github.com/solstice23/argon-theme/issues/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+5. 💪 Opened PR [#333](https://github.com/solstice23/argon-theme/pull/333) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+6. ❗️ Opened issue [#1833](https://github.com/JessicaLim8/JessicaLim8/issues/1833) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
   
 ---
