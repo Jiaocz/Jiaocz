@@ -23,11 +23,11 @@
 ---
 ### My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [为WordPress评论设置默认头像](https://blog.orangii.cn/2022/wp-default-avatar/)
 - [Debian及Debian-based系统安装Neo4j图数据库的安装文档汉化](https://blog.orangii.cn/2022/neo4j-installation-on-debian/)
 - [从Github Pages迁移至CloudFlare Pages，提升一点点的速度](https://blog.orangii.cn/2022/cloudflare-pages/)
 - [Vue 3 Setup标签的使用笔记，及一次Vue-ts的经历](https://blog.orangii.cn/2022/vue-setup-and-vuets/)
 - [React学习笔记，及与Vue的对比（一）](https://blog.orangii.cn/2022/react-vs-vue-1/)
-- [如何配置域名邮箱，避免邮件进入垃圾邮件](https://blog.orangii.cn/2022/domain-email-dns-configure/)
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
