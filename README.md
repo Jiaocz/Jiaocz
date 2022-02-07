@@ -40,11 +40,11 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#392](https://github.com/solstice23/argon-theme/issues/392) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-2. 💪 Opened PR [#392](https://github.com/solstice23/argon-theme/pull/392) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-3. 🎉 Merged PR [#1](https://github.com/Jiaocz/huli.li/pull/1) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
-4. 🗣 Commented on [#1](https://github.com/Jiaocz/huli.li/issues/1) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
-5. 🗣 Commented on [#3](https://github.com/zzsqwq/hugo-blog-comment/issues/3) in [zzsqwq/hugo-blog-comment](https://github.com/zzsqwq/hugo-blog-comment)
-6. 💪 Opened PR [#1](https://github.com/LiMaoQiu/limaoqiu.github.io/pull/1) in [LiMaoQiu/limaoqiu.github.io](https://github.com/LiMaoQiu/limaoqiu.github.io)
+2. 🗣 Commented on [#392](https://github.com/solstice23/argon-theme/issues/392) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+3. 💪 Opened PR [#392](https://github.com/solstice23/argon-theme/pull/392) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+4. 🎉 Merged PR [#1](https://github.com/Jiaocz/huli.li/pull/1) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
+5. 🗣 Commented on [#1](https://github.com/Jiaocz/huli.li/issues/1) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
+6. 🗣 Commented on [#3](https://github.com/zzsqwq/hugo-blog-comment/issues/3) in [zzsqwq/hugo-blog-comment](https://github.com/zzsqwq/hugo-blog-comment)
 <!--END_SECTION:activity-->
   
 ---
