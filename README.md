@@ -2,26 +2,28 @@
 <!-- 使用 CC BY 4.0 许可证，你需要给出合理的署名至本仓库 -->
 
 <img src="https://orangii.cn/images/logo.svg" align="left" height="250px" />
-<h1>Hi there 👋</h1>
-<p>I'm an <b>orange</b> on a binary tree. 🍊</p>
+<h1>𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 👋</h1>
+<p>I'm an <b>𝕠𝕣𝕒𝕟𝕘𝕖</b> on a binary tree. 🍊</p>
 <p>I mainly do front-end work for websites, either for some projects, homework or my interests.</p>
-<p>https://orangii.cn</p>
+<p><a href="https://orangii.cn" target="_blank">𝔥𝔱𝔱𝔭𝔰://𝔬𝔯𝔞𝔫𝔤𝔦𝔦.𝔠𝔫</a></p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=Jiaocz.Jiaocz" />
 <br />
+<a id="My-Works"></a>
 
-### My Works:
+### 𝐌𝐲 𝐖𝐨𝐫𝐤𝐬:
 <a href="#pinned"><img src="https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg" /></a>
 
-<p align="center">Click the image to find what it really is (or you may have find it in Pinned repo under this section).</p>
+<p align="center">𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘪𝘮𝘢𝘨𝘦 𝘵𝘰 𝘧𝘪𝘯𝘥 𝘸𝘩𝘢𝘵 𝘪𝘵 𝘳𝘦𝘢𝘭𝘭𝘺 𝘪𝘴 (𝘰𝘳 𝘺𝘰𝘶 𝘮𝘢𝘺 𝘩𝘢𝘷𝘦 𝘧𝘪𝘯𝘥 𝘪𝘵 𝘪𝘯 𝘗𝘪𝘯𝘯𝘦𝘥 𝘳𝘦𝘱𝘰 𝘶𝘯𝘥𝘦𝘳 𝘵𝘩𝘪𝘴 𝘴𝘦𝘤𝘵𝘪𝘰𝘯).</p>
   
 ----
-
-### My stats
+<a id="My-stats"></a>
+### 𝐌𝐲 𝐬𝐭𝐚𝐭𝐬
 
 [<span><img src="https://github-readme-stats.vercel.app/api?username=jiaocz&count_private=true&show_icons=true&theme=flag-india" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaocz&layout=compact" height=145/></span>](https://orangii.cn/)
   
 ---
-### My Blog Posts
+<a id="My-Blog-Posts"></a>
+### 𝐌𝐲 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
 - [FontAwesome 6.0上线啦](https://blog.orangii.cn/2022/fontawesome-6/)
 - [为WordPress评论设置默认头像](https://blog.orangii.cn/2022/wp-default-avatar/)
@@ -32,11 +34,13 @@
 <p>See my blog at https://blog.orangii.cn/</p>
 
 ---
-### 📊 Weekly coding statistics.
+<a id="Weekly-coding-statistics"></a>
+### 📊 𝐖𝐞𝐞𝐤𝐥𝐲 𝐜𝐨𝐝𝐢𝐧𝐠 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬.
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=orangii" alt="Wakatime"/>](https://wakatime.com/@Orangii)
 
 ---
-### :zap: Recent activities
+<a id="Recent-activities"></a>
+### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#401](https://github.com/solstice23/argon-theme/issues/401) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
@@ -50,19 +54,20 @@
 ---
 
 <details>
-  <summary><strong>Detail Metrics</strong> (very long)</summary>
+  <summary><strong>𝐃𝐞𝐭𝐚𝐢𝐥 𝐌𝐞𝐭𝐫𝐢𝐜𝐬</strong> (very long)</summary>
   <img src="https://github.com/Jiaocz/Jiaocz/blob/main/github-metrics.svg" />
 </details>
 
 ---
-### Support Me
-- [<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width=25 height=25 />&nbsp;https://patreon.com/ii](https://patreon.com/ii)
+<a id="Support-Me"></a>
+### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞
 - [<img src="https://orangii.cn/images/logo.svg" height=25 width=25 />&nbsp;https://orangii.cn/donate.html](https://orangii.cn/donate.html)
+- [<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width=25 height=25 />&nbsp;https://patreon.com/ii](https://patreon.com/ii)
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jiaocz&no-bg=true&margin-w=5" /></p>
 
 ---
-BTW Can you help me star the pinned repos down below? Support the newbie developer~
+𝘉𝘛𝘞 𝘊𝘢𝘯 𝘺𝘰𝘶 𝘩𝘦𝘭𝘱 𝘮𝘦 𝘴𝘵𝘢𝘳 𝘵𝘩𝘦 𝘱𝘪𝘯𝘯𝘦𝘥 𝘳𝘦𝘱𝘰𝘴 𝘥𝘰𝘸𝘯 𝘣𝘦𝘭𝘰𝘸? 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘵𝘩𝘦 𝘯𝘦𝘸𝘣𝘪𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳~
   <a id="pinned"></a>
 <!--
 **Jiaocz/Jiaocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
