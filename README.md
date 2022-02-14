@@ -25,11 +25,11 @@
 <a id="My-Blog-Posts"></a>
 ### 𝐌𝐲 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+- [jsDelivr大面积失效，个人站点该怎么办？](https://blog.orangii.cn/2022/jsdelivr-alt/)
 - [FontAwesome 6.0上线啦](https://blog.orangii.cn/2022/fontawesome-6/)
 - [为WordPress评论设置默认头像](https://blog.orangii.cn/2022/wp-default-avatar/)
 - [Debian及Debian-based系统安装Neo4j图数据库的安装文档汉化](https://blog.orangii.cn/2022/neo4j-installation-on-debian/)
 - [从Github Pages迁移至CloudFlare Pages，提升一点点的速度](https://blog.orangii.cn/2022/cloudflare-pages/)
-- [Vue 3 Setup标签的使用笔记，及一次Vue-ts的经历](https://blog.orangii.cn/2022/vue-setup-and-vuets/)
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
