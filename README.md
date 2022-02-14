@@ -43,12 +43,12 @@
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#860](https://github.com/volfclub/travellings/issues/860) in [volfclub/travellings](https://github.com/volfclub/travellings)
-2. ❗️ Opened issue [#401](https://github.com/solstice23/argon-theme/issues/401) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-3. 💪 Opened PR [#394](https://github.com/solstice23/argon-theme/pull/394) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-4. 🗣 Commented on [#392](https://github.com/solstice23/argon-theme/issues/392) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-5. ❗️ Opened issue [#393](https://github.com/solstice23/argon-theme/issues/393) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-6. 🗣 Commented on [#392](https://github.com/solstice23/argon-theme/issues/392) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+1. 🗣 Commented on [#420](https://github.com/solstice23/argon-theme/issues/420) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+2. ❗️ Opened issue [#420](https://github.com/solstice23/argon-theme/issues/420) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+3. ❗️ Opened issue [#18373](https://github.com/jsdelivr/jsdelivr/issues/18373) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+4. ❗️ Opened issue [#860](https://github.com/volfclub/travellings/issues/860) in [volfclub/travellings](https://github.com/volfclub/travellings)
+5. ❗️ Opened issue [#401](https://github.com/solstice23/argon-theme/issues/401) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
+6. 💪 Opened PR [#394](https://github.com/solstice23/argon-theme/pull/394) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
 <!--END_SECTION:activity-->
   
 ---
