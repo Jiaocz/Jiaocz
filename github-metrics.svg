@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            434 Commits
+                            435 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.9364655205251" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="226.9364655205251" y="0" width="111.7935421558557" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="338.7300076763808" y="0" width="65.56536964453" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="404.2953773209108" y="0" width="34.42485572084057" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="438.7202330417514" y="0" width="11.300820514078637" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="450.02105355583" y="0" width="5.541417270371946" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="455.56247082620195" y="0" width="2.3598318039753194" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.9223026301773" y="0" width="2.07769736982272" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.95527271224867" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="226.95527271224867" y="0" width="111.7845209137061" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="338.7397936259548" y="0" width="65.56007881050876" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="404.29987243646355" y="0" width="34.42207778793466" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="438.72195022439826" y="0" width="11.299908588073066" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.0218588124713" y="0" width="5.540970102618926" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="455.5628289150902" y="0" width="2.3596413760335486" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.9224702911238" y="0" width="2.0775297088762534" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -426,8 +426,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -511,8 +511,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -557,13 +557,13 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">1</span>
+                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -1897,7 +1897,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.542436687200547 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2564,7 +2564,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2022, 16:21:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 00:22:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
