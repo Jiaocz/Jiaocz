@@ -1,7 +1,7 @@
 <!-- Using Creative Commons BY 4.0 license. You must give appropriate credit for this repo if you use. -->
 <!-- 使用 CC BY 4.0 许可证，你需要给出合理的署名至本仓库 -->
 
-<img src="https://orangii.cn/images/logo.svg" align="left" height="250px" />
+<img src="https://static.orangii.cn/avatar/logo.svg" align="left" height="250px" />
 <h1>𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 👋</h1>
 <p>I'm an <b>𝕠𝕣𝕒𝕟𝕘𝕖</b> on a binary tree. 🍊</p>
 <p>I mainly do front-end work for websites, either for some projects, homework or my interests.</p>
