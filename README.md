@@ -25,11 +25,11 @@
 <a id="My-Blog-Posts"></a>
 ### 𝐌𝐲 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+- [给网站做了几个小改动](https://blog.orangii.cn/shuoshuo/small-update-20220406/)
 - [服务器迁移计划](https://blog.orangii.cn/shuoshuo/server-migration/)
 - [教程：宝塔编译Nginx开启HTTP/3](https://blog.orangii.cn/2022/bt-panel-enable-http3/)
 - [3月14日 近期状况](https://blog.orangii.cn/2022/mar-14-recent/)
 - [jsDelivr大面积失效，个人站点该怎么办？](https://blog.orangii.cn/2022/jsdelivr-alt/)
-- [FontAwesome 6.0上线啦](https://blog.orangii.cn/2022/fontawesome-6/)
 <!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
