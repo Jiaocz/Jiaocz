@@ -43,12 +43,12 @@
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#921](https://github.com/travellings-link/travellings/issues/921) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-2. 🗣 Commented on [#912](https://github.com/travellings-link/travellings/issues/912) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-3. 💪 Opened PR [#42](https://github.com/solstice23/argon-theme-showcase/pull/42) in [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase)
-4. ❗️ Opened issue [#1](https://github.com/stevenlei/golden-wallet-address-picker/issues/1) in [stevenlei/golden-wallet-address-picker](https://github.com/stevenlei/golden-wallet-address-picker)
-5. 🗣 Commented on [#436](https://github.com/solstice23/argon-theme/issues/436) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-6. 🗣 Commented on [#4](https://github.com/zzsqwq/hugo-blog-comment/issues/4) in [zzsqwq/hugo-blog-comment](https://github.com/zzsqwq/hugo-blog-comment)
+1. 💪 Opened PR [#924](https://github.com/travellings-link/travellings/pull/924) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+2. 🗣 Commented on [#921](https://github.com/travellings-link/travellings/issues/921) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+3. 🗣 Commented on [#912](https://github.com/travellings-link/travellings/issues/912) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+4. 💪 Opened PR [#42](https://github.com/solstice23/argon-theme-showcase/pull/42) in [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase)
+5. ❗️ Opened issue [#1](https://github.com/stevenlei/golden-wallet-address-picker/issues/1) in [stevenlei/golden-wallet-address-picker](https://github.com/stevenlei/golden-wallet-address-picker)
+6. 🗣 Commented on [#436](https://github.com/solstice23/argon-theme/issues/436) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
 <!--END_SECTION:activity-->
   
 ---
