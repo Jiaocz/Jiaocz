@@ -43,12 +43,12 @@
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#709](https://github.com/actions/stale/issues/709) in [actions/stale](https://github.com/actions/stale)
-2. 🗣 Commented on [#754](https://github.com/travellings-link/travellings/issues/754) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+1. ❗️ Closed issue [#927](https://github.com/travellings-link/travellings/issues/927) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+2. ❗️ Reopened issue [#927](https://github.com/travellings-link/travellings/issues/927) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
 3. ❗️ Closed issue [#927](https://github.com/travellings-link/travellings/issues/927) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
 4. ❗️ Reopened issue [#927](https://github.com/travellings-link/travellings/issues/927) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-5. ❗️ Closed issue [#927](https://github.com/travellings-link/travellings/issues/927) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-6. ❗️ Reopened issue [#927](https://github.com/travellings-link/travellings/issues/927) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+5. ❗️ Opened issue [#709](https://github.com/actions/stale/issues/709) in [actions/stale](https://github.com/actions/stale)
+6. 🗣 Commented on [#754](https://github.com/travellings-link/travellings/issues/754) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
 <!--END_SECTION:activity-->
   
 ---
