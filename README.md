@@ -23,6 +23,7 @@
   
 ---
 <a id="My-Blog-Posts"></a>
+<img align="right" src="https://avatars.githubusercontent.com/u/14857984?v=4" height="250px" />
 ### 𝐌𝐲 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
 - [继Codex后，OpenAI又出新AI进军艺术画领域](https://blog.orangii.cn/2022/openai-dall-e-2/)
