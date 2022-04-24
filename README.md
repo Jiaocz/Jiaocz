@@ -44,12 +44,12 @@
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#420](https://github.com/travellings-link/travellings/issues/420) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-2. 🗣 Commented on [#934](https://github.com/travellings-link/travellings/issues/934) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-3. ❌ Closed PR [#924](https://github.com/travellings-link/travellings/pull/924) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-4. ❗️ Closed issue [#2](https://github.com/Jiaocz/curly-train/issues/2) in [Jiaocz/curly-train](https://github.com/Jiaocz/curly-train)
-5. ❗️ Reopened issue [#558](https://github.com/travellings-link/travellings/issues/558) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-6. 🗣 Commented on [#558](https://github.com/travellings-link/travellings/issues/558) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+1. 🗣 Commented on [#946](https://github.com/travellings-link/travellings/issues/946) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+2. ❗️ Closed issue [#953](https://github.com/travellings-link/travellings/issues/953) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+3. ❗️ Closed issue [#949](https://github.com/travellings-link/travellings/issues/949) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+4. ❗️ Closed issue [#943](https://github.com/travellings-link/travellings/issues/943) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+5. ❗️ Closed issue [#931](https://github.com/travellings-link/travellings/issues/931) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+6. ❗️ Closed issue [#778](https://github.com/travellings-link/travellings/issues/778) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
 <!--END_SECTION:activity-->
   
 ---
