@@ -64,7 +64,7 @@
 - [<img src="https://orangii.cn/images/logo.svg" height=25 width=25 />&nbsp;https://orangii.cn/donate.html](https://orangii.cn/donate.html)
 - [<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width=25 height=25 />&nbsp;https://patreon.com/ii](https://patreon.com/ii)
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jiaocz&no-bg=true&margin-w=5" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jiaocz&no-bg=true&margin-w=5&rank=-C&row=1&column=6" /></p>
 
 ---
 𝘉𝘛𝘞 𝘊𝘢𝘯 𝘺𝘰𝘶 𝘩𝘦𝘭𝘱 𝘮𝘦 𝘴𝘵𝘢𝘳 𝘵𝘩𝘦 𝘱𝘪𝘯𝘯𝘦𝘥 𝘳𝘦𝘱𝘰𝘴 𝘥𝘰𝘸𝘯 𝘣𝘦𝘭𝘰𝘸? 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘵𝘩𝘦 𝘯𝘦𝘸𝘣𝘪𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳~
