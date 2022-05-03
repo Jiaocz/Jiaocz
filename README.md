@@ -43,12 +43,12 @@
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#781](https://github.com/travellings-link/travellings/issues/781) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-2. ❗️ Closed issue [#703](https://github.com/travellings-link/travellings/issues/703) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-3. 🗣 Commented on [#4](https://github.com/Jiaocz/ovx/issues/4) in [Jiaocz/ovx](https://github.com/Jiaocz/ovx)
-4. 🗣 Commented on [#4594](https://github.com/axios/axios/issues/4594) in [axios/axios](https://github.com/axios/axios)
-5. 🗣 Commented on [#3](https://github.com/Jiaocz/ovx/issues/3) in [Jiaocz/ovx](https://github.com/Jiaocz/ovx)
-6. 🗣 Commented on [#946](https://github.com/travellings-link/travellings/issues/946) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+1. 💪 Opened PR [#411](https://github.com/education/GitHubGraduation-2022/pull/411) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+2. 🗣 Commented on [#781](https://github.com/travellings-link/travellings/issues/781) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+3. ❗️ Closed issue [#703](https://github.com/travellings-link/travellings/issues/703) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+4. 🗣 Commented on [#4](https://github.com/Jiaocz/ovx/issues/4) in [Jiaocz/ovx](https://github.com/Jiaocz/ovx)
+5. 🗣 Commented on [#4594](https://github.com/axios/axios/issues/4594) in [axios/axios](https://github.com/axios/axios)
+6. 🗣 Commented on [#3](https://github.com/Jiaocz/ovx/issues/3) in [Jiaocz/ovx](https://github.com/Jiaocz/ovx)
 <!--END_SECTION:activity-->
   
 ---
