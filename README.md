@@ -11,7 +11,7 @@
 <a id="My-Works"></a>
 
 ### 𝐌𝐲 𝐖𝐨𝐫𝐤𝐬:
-<a href="#pinned"><img src="https://user-images.githubusercontent.com/14857984/130189337-75ae053b-7cd2-43d3-a87d-c3e11837cc5c.jpg" /></a>
+<a href="#pinned"><img src="https://github.com/Jiaocz/Jiaocz/blob/main/websites.png" /></a>
 
 <p align="center">𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘪𝘮𝘢𝘨𝘦 𝘵𝘰 𝘧𝘪𝘯𝘥 𝘸𝘩𝘢𝘵 𝘪𝘵 𝘳𝘦𝘢𝘭𝘭𝘺 𝘪𝘴 (𝘰𝘳 𝘺𝘰𝘶 𝘮𝘢𝘺 𝘩𝘢𝘷𝘦 𝘧𝘪𝘯𝘥 𝘪𝘵 𝘪𝘯 𝘗𝘪𝘯𝘯𝘦𝘥 𝘳𝘦𝘱𝘰 𝘶𝘯𝘥𝘦𝘳 𝘵𝘩𝘪𝘴 𝘴𝘦𝘤𝘵𝘪𝘰𝘯).</p>
   
