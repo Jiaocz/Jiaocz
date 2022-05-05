@@ -69,8 +69,8 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://orangii.cn
+          plugin_screenshot_title: HTTP/3 Checker
+          plugin_screenshot_url: https://h3.orangii.cn/
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_stars: yes
