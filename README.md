@@ -43,12 +43,12 @@
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#934](https://github.com/travellings-link/travellings/issues/934) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-2. ❗️ Closed issue [#947](https://github.com/travellings-link/travellings/issues/947) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-3. ❗️ Closed issue [#904](https://github.com/travellings-link/travellings/issues/904) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-4. 💪 Opened PR [#411](https://github.com/education/GitHubGraduation-2022/pull/411) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-5. 🗣 Commented on [#781](https://github.com/travellings-link/travellings/issues/781) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-6. ❗️ Closed issue [#703](https://github.com/travellings-link/travellings/issues/703) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+1. ❗️ Closed issue [#83](https://github.com/travellings-link/travellings/issues/83) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+2. 🗣 Commented on [#83](https://github.com/travellings-link/travellings/issues/83) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+3. ❗️ Reopened issue [#83](https://github.com/travellings-link/travellings/issues/83) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+4. ❗️ Closed issue [#934](https://github.com/travellings-link/travellings/issues/934) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+5. ❗️ Closed issue [#947](https://github.com/travellings-link/travellings/issues/947) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+6. ❗️ Closed issue [#904](https://github.com/travellings-link/travellings/issues/904) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
 <!--END_SECTION:activity-->
   
 ---
