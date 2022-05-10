@@ -36,7 +36,9 @@
 ---
 <a id="Weekly-coding-statistics"></a>
 ### 📊 𝐖𝐞𝐞𝐤𝐥𝐲 𝐜𝐨𝐝𝐢𝐧𝐠 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬.
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=orangii" alt="Wakatime"/>](https://wakatime.com/@Orangii)
+<!-- [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=orangii" alt="Wakatime"/>](https://wakatime.com/@Orangii) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 <a id="Recent-activities"></a>
