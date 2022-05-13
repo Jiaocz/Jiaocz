@@ -55,12 +55,12 @@ PHP          20 mins         █▓░░░░░░░░░░░░░░░
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#959](https://github.com/travellings-link/travellings/issues/959) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-2. ❗️ Closed issue [#958](https://github.com/travellings-link/travellings/issues/958) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-3. ❗️ Closed issue [#965](https://github.com/travellings-link/travellings/issues/965) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-4. ❗️ Closed issue [#956](https://github.com/travellings-link/travellings/issues/956) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-5. ❗️ Closed issue [#932](https://github.com/travellings-link/travellings/issues/932) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-6. ❗️ Closed issue [#83](https://github.com/travellings-link/travellings/issues/83) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+1. 🗣 Commented on [#6](https://github.com/zzsqwq/hugo-blog-comment/issues/6) in [zzsqwq/hugo-blog-comment](https://github.com/zzsqwq/hugo-blog-comment)
+2. 🗣 Commented on [#6](https://github.com/zzsqwq/hugo-blog-comment/issues/6) in [zzsqwq/hugo-blog-comment](https://github.com/zzsqwq/hugo-blog-comment)
+3. ❗️ Closed issue [#959](https://github.com/travellings-link/travellings/issues/959) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+4. ❗️ Closed issue [#958](https://github.com/travellings-link/travellings/issues/958) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+5. ❗️ Closed issue [#965](https://github.com/travellings-link/travellings/issues/965) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+6. ❗️ Closed issue [#956](https://github.com/travellings-link/travellings/issues/956) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
 <!--END_SECTION:activity-->
   
 ---
