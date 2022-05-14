@@ -73,7 +73,7 @@ PHP          20 mins         █▓░░░░░░░░░░░░░░░
 ---
 <a id="Support-Me"></a>
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐞
-- [<img src="https://orangii.cn/images/logo.svg" height=25 width=25 />&nbsp;https://orangii.cn/donate.html](https://orangii.cn/donate.html)
+- [<img src="https://static.orangii.cn/avatar/logo.svg" height=25 width=25 />&nbsp;https://orangii.cn/donate.html](https://orangii.cn/donate.html)
 - [<img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg" width=25 height=25 />&nbsp;https://patreon.com/ii](https://patreon.com/ii)
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jiaocz&no-bg=true&margin-w=5&rank=-C&row=1&column=6" /></p>
