@@ -55,12 +55,12 @@ SCSS         21 mins         ▓░░░░░░░░░░░░░░░░
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-2. ❌ Closed PR [#453](https://github.com/vitejs/awesome-vite/pull/453) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-3. 🗣 Commented on [#453](https://github.com/vitejs/awesome-vite/issues/453) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-4. 💪 Opened PR [#453](https://github.com/vitejs/awesome-vite/pull/453) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-5. ❗️ Opened issue [#903](https://github.com/vuepress/vuepress-next/issues/903) in [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next)
-6. ❗️ Closed issue [#929](https://github.com/travellings-link/travellings/issues/929) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+1. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+2. 🗣 Commented on [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+3. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+4. 🗣 Commented on [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+5. ❗️ Opened issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+6. ❌ Closed PR [#453](https://github.com/vitejs/awesome-vite/pull/453) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
 <!--END_SECTION:activity-->
   
 ---
