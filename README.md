@@ -55,12 +55,12 @@ Markdown         8 mins          ░░░░░░░░░░░░░░░�
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/ovx-js/ovx/issues/32) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-2. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-3. 🗣 Commented on [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-4. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-5. 🗣 Commented on [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-6. ❗️ Opened issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+1. 🗣 Commented on [#14](https://github.com/Jiaocz/Personal-page/issues/14) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+2. 🗣 Commented on [#32](https://github.com/ovx-js/ovx/issues/32) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+3. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+4. 🗣 Commented on [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+5. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+6. 🗣 Commented on [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
 <!--END_SECTION:activity-->
   
 ---
