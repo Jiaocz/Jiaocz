@@ -55,12 +55,12 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-2. ❗️ Opened issue [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-3. 🗣 Commented on [#14](https://github.com/Jiaocz/Personal-page/issues/14) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-4. 🗣 Commented on [#32](https://github.com/ovx-js/ovx/issues/32) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-5. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
-6. 🗣 Commented on [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
+1. 💪 Opened PR [#175](https://github.com/electron-vite/electron-vite-vue/pull/175) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+2. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+3. ❗️ Opened issue [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+4. 🗣 Commented on [#14](https://github.com/Jiaocz/Personal-page/issues/14) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+5. 🗣 Commented on [#32](https://github.com/ovx-js/ovx/issues/32) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+6. ❗️ Closed issue [#454](https://github.com/vitejs/awesome-vite/issues/454) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
 <!--END_SECTION:activity-->
   
 ---
