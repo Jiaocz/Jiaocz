@@ -55,12 +55,12 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/electron-vite/electron-vite-vue/issues/176) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-2. 💪 Opened PR [#175](https://github.com/electron-vite/electron-vite-vue/pull/175) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-3. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-4. ❗️ Opened issue [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-5. 🗣 Commented on [#14](https://github.com/Jiaocz/Personal-page/issues/14) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-6. 🗣 Commented on [#32](https://github.com/ovx-js/ovx/issues/32) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+1. ❗️ Closed issue [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+2. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+3. ❗️ Opened issue [#178](https://github.com/electron-vite/electron-vite-vue/issues/178) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+4. 🗣 Commented on [#176](https://github.com/electron-vite/electron-vite-vue/issues/176) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+5. 💪 Opened PR [#175](https://github.com/electron-vite/electron-vite-vue/pull/175) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+6. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
 <!--END_SECTION:activity-->
   
 ---
