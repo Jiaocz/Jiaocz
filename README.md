@@ -55,12 +55,12 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-2. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-3. ❗️ Opened issue [#178](https://github.com/electron-vite/electron-vite-vue/issues/178) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-4. 🗣 Commented on [#176](https://github.com/electron-vite/electron-vite-vue/issues/176) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-5. 💪 Opened PR [#175](https://github.com/electron-vite/electron-vite-vue/pull/175) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
-6. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+1. ❌ Closed PR [#15](https://github.com/Jiaocz/Personal-page/pull/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+2. 🗣 Commented on [#15](https://github.com/Jiaocz/Personal-page/issues/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+3. ❗️ Closed issue [#14](https://github.com/Jiaocz/Personal-page/issues/14) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+4. ❗️ Closed issue [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+5. 🗣 Commented on [#173](https://github.com/electron-vite/electron-vite-vue/issues/173) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+6. ❗️ Opened issue [#178](https://github.com/electron-vite/electron-vite-vue/issues/178) in [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
 <!--END_SECTION:activity-->
   
 ---
