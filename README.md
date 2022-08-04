@@ -55,12 +55,12 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
-2. 🗣 Commented on [#168](https://github.com/biliup/biliup/issues/168) in [biliup/biliup](https://github.com/biliup/biliup)
-3. 🗣 Commented on [#15](https://github.com/Jiaocz/Personal-page/issues/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-4. ❌ Closed PR [#15](https://github.com/Jiaocz/Personal-page/pull/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-5. 🗣 Commented on [#15](https://github.com/Jiaocz/Personal-page/issues/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-6. ❗️ Closed issue [#14](https://github.com/Jiaocz/Personal-page/issues/14) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+1. ❗️ Closed issue [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
+2. 🗣 Commented on [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
+3. 🗣 Commented on [#168](https://github.com/biliup/biliup/issues/168) in [biliup/biliup](https://github.com/biliup/biliup)
+4. 🗣 Commented on [#15](https://github.com/Jiaocz/Personal-page/issues/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+5. ❌ Closed PR [#15](https://github.com/Jiaocz/Personal-page/pull/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+6. 🗣 Commented on [#15](https://github.com/Jiaocz/Personal-page/issues/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 <!--END_SECTION:activity-->
   
 ---
