@@ -55,12 +55,12 @@ JSON             16 mins         █▒░░░░░░░░░░░░░�
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/solstice23/argon-theme-showcase/issues/13) in [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase)
-2. ❗️ Closed issue [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
-3. 🗣 Commented on [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
-4. 🗣 Commented on [#168](https://github.com/biliup/biliup/issues/168) in [biliup/biliup](https://github.com/biliup/biliup)
-5. 🗣 Commented on [#15](https://github.com/Jiaocz/Personal-page/issues/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
-6. ❌ Closed PR [#15](https://github.com/Jiaocz/Personal-page/pull/15) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+1. 🎉 Merged PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+2. 💪 Opened PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+3. 🗣 Commented on [#86](https://github.com/ovx-js/ovx/issues/86) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+4. 🗣 Commented on [#13](https://github.com/solstice23/argon-theme-showcase/issues/13) in [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase)
+5. ❗️ Closed issue [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
+6. 🗣 Commented on [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
 <!--END_SECTION:activity-->
   
 ---
