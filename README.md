@@ -55,12 +55,12 @@ JSON             16 mins         █░░░░░░░░░░░░░░�
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/by123456by/bilibili-record-map/issues/1) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
-2. 🎉 Merged PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-3. 💪 Opened PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-4. 🗣 Commented on [#86](https://github.com/ovx-js/ovx/issues/86) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-5. 🗣 Commented on [#13](https://github.com/solstice23/argon-theme-showcase/issues/13) in [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase)
-6. ❗️ Closed issue [#5](https://github.com/Jiaocz/UMAP/issues/5) in [Jiaocz/UMAP](https://github.com/Jiaocz/UMAP)
+1. 💪 Opened PR [#2](https://github.com/by123456by/bilibili-record-map/pull/2) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
+2. ❗️ Opened issue [#1](https://github.com/by123456by/bilibili-record-map/issues/1) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
+3. 🎉 Merged PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+4. 💪 Opened PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+5. 🗣 Commented on [#86](https://github.com/ovx-js/ovx/issues/86) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+6. 🗣 Commented on [#13](https://github.com/solstice23/argon-theme-showcase/issues/13) in [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase)
 <!--END_SECTION:activity-->
   
 ---
