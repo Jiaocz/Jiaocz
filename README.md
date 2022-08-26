@@ -55,12 +55,12 @@ GitIgnore file   3 mins          ░░░░░░░░░░░░░░░�
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/by123456by/bilibili-record-map/pull/2) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
-2. ❗️ Opened issue [#1](https://github.com/by123456by/bilibili-record-map/issues/1) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
-3. 🎉 Merged PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-4. 💪 Opened PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-5. 🗣 Commented on [#86](https://github.com/ovx-js/ovx/issues/86) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
-6. 🗣 Commented on [#13](https://github.com/solstice23/argon-theme-showcase/issues/13) in [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase)
+1. ❌ Closed PR [#1](https://github.com/SNWCreations/JKook/pull/1) in [SNWCreations/JKook](https://github.com/SNWCreations/JKook)
+2. 💪 Opened PR [#1](https://github.com/SNWCreations/JKook/pull/1) in [SNWCreations/JKook](https://github.com/SNWCreations/JKook)
+3. 💪 Opened PR [#2](https://github.com/by123456by/bilibili-record-map/pull/2) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
+4. ❗️ Opened issue [#1](https://github.com/by123456by/bilibili-record-map/issues/1) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
+5. 🎉 Merged PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
+6. 💪 Opened PR [#87](https://github.com/ovx-js/ovx/pull/87) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
 <!--END_SECTION:activity-->
   
 ---
