@@ -50,12 +50,12 @@ JavaScript   46 mins         █████████████████
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/1) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
-2. 💪 Opened PR [#1](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/1) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
-3. 💪 Opened PR [#1218](https://github.com/travellings-link/travellings/pull/1218) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
-4. ❌ Closed PR [#1](https://github.com/SNWCreations/JKook/pull/1) in [SNWCreations/JKook](https://github.com/SNWCreations/JKook)
-5. 💪 Opened PR [#1](https://github.com/SNWCreations/JKook/pull/1) in [SNWCreations/JKook](https://github.com/SNWCreations/JKook)
-6. 💪 Opened PR [#2](https://github.com/by123456by/bilibili-record-map/pull/2) in [by123456by/bilibili-record-map](https://github.com/by123456by/bilibili-record-map)
+1. ❗️ Opened issue [#1935](https://github.com/cloudflare/wrangler2/issues/1935) in [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2)
+2. 🎉 Merged PR [#1](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/1) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
+3. 💪 Opened PR [#1](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/1) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
+4. 💪 Opened PR [#1218](https://github.com/travellings-link/travellings/pull/1218) in [travellings-link/travellings](https://github.com/travellings-link/travellings)
+5. ❌ Closed PR [#1](https://github.com/SNWCreations/JKook/pull/1) in [SNWCreations/JKook](https://github.com/SNWCreations/JKook)
+6. 💪 Opened PR [#1](https://github.com/SNWCreations/JKook/pull/1) in [SNWCreations/JKook](https://github.com/SNWCreations/JKook)
 <!--END_SECTION:activity-->
   
 ---
