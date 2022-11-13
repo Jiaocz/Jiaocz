@@ -26,11 +26,11 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/14857984?v=4" height="250px" />
 ### 𝐌𝐲 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+<details><summary><a href='https://blog.orangii.cn/2022/11-11-buy-list/' target='_blank'>我的双十一购物清单</a>&nbsp;📅Nov 13 2022</summary>实际上我的双十一没有买实物产品，但是买了很多软件。一个是支持一下正版，也不用四处去找破解；第二也是有些软件打折 [&amp;#8230;]</details>
 <details><summary><a href='https://blog.orangii.cn/2022/trying-out-2-ai-drawings/' target='_blank'>体验两个AI图片生成网站</a>&nbsp;📅Oct 07 2022</summary>可以生成好康的图片的网站，确定不来康康吗？文章的封面甚至都是AI完全绘制的，也许可以生成你想要的图片哦！来看看示例图片吧！</details>
 <details><summary><a href='https://blog.orangii.cn/2022/cloudflare-pages-functions/' target='_blank'>一个基于 Cloudflare Pages Functions 的多功能网站</a>&nbsp;📅Sep 30 2022</summary>一个基于Cloudflare Pages的集url跳转、gravatar镜像、GitHub静态文件镜像的多功能站点，无需服务器作为后台。</details>
 <details><summary><a href='https://blog.orangii.cn/shuoshuo/220918-im-newbie/' target='_blank'>大家好，我是22级新生，多多关照~</a>&nbsp;📅Sep 18 2022</summary>事情是这样的，昨天混入新生去参与学生会招新，被认出来了。有一位现在负责宣传中心的干事说我看起来显小，确实像是新 [&amp;#8230;]</details>
-<details><summary><a href='https://blog.orangii.cn/shuoshuo/popup-at-7-27/' target='_blank'>突然出现诈个尸，以防止被误认为弃坑了</a>&nbsp;📅Jul 27 2022</summary>最近忙于摆烂，本来说好的假期复习考研也摆了很久了，要不是看直播就是打游戏或者是打代码玩，现在已经很久没有动力学 [&amp;#8230;]</details>
-<details><summary><a href='https://blog.orangii.cn/shuoshuo/gitee-repo-invisible-default/' target='_blank'>Gitee默认关闭仓库公开权限，为“推动”国内开源生态建设</a>&nbsp;📅May 18 2022</summary>今天看群友反应了Gitee的公开仓库都被限制了，自己尝试一看，好家伙，果然不能了（以下是我的一个项目） 为了营 [&amp;#8230;]</details><!-- BLOG-POST-LIST:END -->
+<details><summary><a href='https://blog.orangii.cn/shuoshuo/popup-at-7-27/' target='_blank'>突然出现诈个尸，以防止被误认为弃坑了</a>&nbsp;📅Jul 27 2022</summary>最近忙于摆烂，本来说好的假期复习考研也摆了很久了，要不是看直播就是打游戏或者是打代码玩，现在已经很久没有动力学 [&amp;#8230;]</details><!-- BLOG-POST-LIST:END -->
 <p>See my blog at https://blog.orangii.cn/</p>
 
 ---
