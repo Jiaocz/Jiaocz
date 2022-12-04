@@ -60,17 +60,14 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_projects_repositories: travellings-link/travellings/projects/1
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://blog.orangii.cn/feed
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_selector: body
-          plugin_screenshot_title: HTTP/3 Checker
-          plugin_screenshot_url: https://h3.orangii.cn/
+          plugin_screenshot_title: Blog Screenshot
+          plugin_screenshot_url: https://blog.orangii.cn/
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_stars: yes
