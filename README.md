@@ -40,10 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       53 mins         ███████████████▓░░░░░░░░░   63.21 %
-GitIgnore file   13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-TypeScript       11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Other            5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+C++          1 hr            █████████████████░░░░░░░░   68.02 %
+JavaScript   22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
+TypeScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->
