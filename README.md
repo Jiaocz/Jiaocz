@@ -40,7 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++          23 mins         ████████████████████████░   96.64 %
+ObjectiveC   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+CMake        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
