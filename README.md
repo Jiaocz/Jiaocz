@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++          2 hrs 12 mins   █████████████████████████   99.35 %
-ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+C++          1 hr 41 mins    █████████████████████████   99.99 %
+ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
