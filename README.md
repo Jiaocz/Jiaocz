@@ -39,7 +39,7 @@
 <!-- [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=orangii" alt="Wakatime"/>](https://wakatime.com/@Orangii) -->
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   3 mins          █████████████████▓░░░░░░░   70.52 %
 HTML         1 min           ███████▒░░░░░░░░░░░░░░░░░   29.48 %
 ```
