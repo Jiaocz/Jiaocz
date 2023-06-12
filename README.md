@@ -54,9 +54,9 @@ ObjectiveC       0 secs          ░░░░░░░░░░░░░░░�
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/4) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
-2. 🗣 Commented on [#401](https://github.com/solstice23/argon-theme/issues/401) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
-3. ❗️ Opened issue [#85](https://github.com/jpkleemans/vite-svg-loader/issues/85) in [jpkleemans/vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader)
+1. 🗣 Commented on [#37](https://github.com/Jiaocz/huli.li/issues/37) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
+2. 🎉 Merged PR [#4](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/4) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
+3. 🗣 Commented on [#401](https://github.com/solstice23/argon-theme/issues/401) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
 4. 🗣 Commented on [#86](https://github.com/ovx-js/ovx/issues/86) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
 5. 💪 Opened PR [#2](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/2) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
 6. 🗣 Commented on [#1935](https://github.com/cloudflare/wrangler2/issues/1935) in [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2)
