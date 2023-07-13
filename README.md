@@ -50,7 +50,7 @@ No activity tracked
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/Jiaocz/huli.li/issues/37) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
+1. 🗣 Commented on [#37](https://github.com/Jiaocz/huli.li/pull/37#issuecomment-1587098513) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
 2. 🎉 Merged PR [#4](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/4) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
 3. 🗣 Commented on [#401](https://github.com/solstice23/argon-theme/issues/401) in [solstice23/argon-theme](https://github.com/solstice23/argon-theme)
 4. 🗣 Commented on [#86](https://github.com/ovx-js/ovx/issues/86) in [ovx-js/ovx](https://github.com/ovx-js/ovx)
