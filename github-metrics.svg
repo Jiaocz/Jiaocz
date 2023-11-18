@@ -2770,7 +2770,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~6 hours of coding per day
+                            ~7 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2792,7 +2792,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">kspay-wallet-activity-withdraw-app</span>
-                                <div class="bar" style="width: 67.72800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 67.72%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">85%</span>
                             </div>
                             <div class="entry">
@@ -2807,7 +2807,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">kspay-wallet-c-withdraw-h5</span>
-                                <div class="bar" style="width: 2.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -2817,7 +2817,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 72.67999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 72.672%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">91%</span>
                             </div>
                             <div class="entry">
@@ -3141,7 +3141,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 334k out of 63.1m repositories</span>
+                                    <span class="gh">ranked 334k out of 60.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 36 times</div>
                             </div>
@@ -3193,7 +3193,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 279k out of 125m users</span>
+                                    <span class="gh">ranked 298k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 40 users</div>
                             </div>
@@ -3231,7 +3231,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 293k out of 63.1m repositories</span>
+                                    <span class="gh">ranked 293k out of 60.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 117 stars</div>
                             </div>
@@ -3596,7 +3596,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Nov 2023, 00:08:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2023, 01:05:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
