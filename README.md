@@ -40,7 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript     34 hrs 15 mins  ██████████████████████▓░░   90.39 %
+Vue.js         1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JSON           47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+yarn.lock      12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Shell Script   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
