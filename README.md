@@ -54,7 +54,7 @@ jsonc            3 mins          ░░░░░░░░░░░░░░░�
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Jiaocz/Personal-page/issues/16#issuecomment-1676980256) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
+1. ❗ Opened issue [#87](https://github.com/Tofandel/prerenderer/issues/87) in [Tofandel/prerenderer](https://github.com/Tofandel/prerenderer)
 2. 🗣 Commented on [#16](https://github.com/Jiaocz/Personal-page/issues/16#issuecomment-1676942436) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 3. 🗣 Commented on [#37](https://github.com/Jiaocz/huli.li/pull/37#issuecomment-1587098513) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
 4. 🎉 Merged PR [#4](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/4) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
