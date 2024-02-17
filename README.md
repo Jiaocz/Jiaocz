@@ -40,11 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       44 mins         ████████████████████████▓   98.25 %
-Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   12 mins         █████████████████████████   99.55 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
