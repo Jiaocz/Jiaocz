@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PlantUML file    7 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.39 %
-TypeScript       5 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.87 %
-JavaScript       1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-Vue.js           1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+PlantUML file    7 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.43 %
+TypeScript       3 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+Vue.js           1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+JavaScript       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+JSON             36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
