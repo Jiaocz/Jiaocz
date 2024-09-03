@@ -54,7 +54,7 @@ HTML            11 mins         ▒░░░░░░░░░░░░░░░
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/oiov/vmail/issues/14) in [oiov/vmail](https://github.com/oiov/vmail)
+1. 💪 Opened PR [#6270](https://github.com/antvis/G6/pull/6270) in [antvis/G6](https://github.com/antvis/G6)
 2. 🗣 Commented on [#16](https://github.com/Jiaocz/Personal-page/issues/16#issuecomment-1676942436) in [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page)
 3. 🗣 Commented on [#37](https://github.com/Jiaocz/huli.li/pull/37#issuecomment-1587098513) in [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li)
 4. 🎉 Merged PR [#4](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten/pull/4) in [Jiaocz/CloudFlare-Pages-UrlShorten](https://github.com/Jiaocz/CloudFlare-Pages-UrlShorten)
