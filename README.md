@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS              1 min           ███████████████████████▒░   93.73 %
-Markdown         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
