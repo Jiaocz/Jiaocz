@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lejianwen/rustdesk-api</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login</div>
@@ -2902,7 +2902,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2025, 14:16:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2025, 15:11:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
