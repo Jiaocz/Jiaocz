@@ -54,7 +54,7 @@ GitIgnore file   16 mins               ▒░░░░░░░░░░░░�
 ### :zap: 𝐑𝐞𝐜𝐞𝐧𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#203](https://github.com/VasiHemanth/tokentelemetry/pull/203) in [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry)
+1. 🗣 Commented on [#203](https://github.com/VasiHemanth/tokentelemetry/pull/203#issuecomment-5568188302) in [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry)
 2. ℹ️ Labeled issue [#198](https://github.com/VasiHemanth/tokentelemetry/issues/198) in [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry)
 3. ❗ Opened issue [#198](https://github.com/VasiHemanth/tokentelemetry/issues/198) in [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry)
 4. ℹ️ Assigned issue [#198](https://github.com/VasiHemanth/tokentelemetry/issues/198) in [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry)
